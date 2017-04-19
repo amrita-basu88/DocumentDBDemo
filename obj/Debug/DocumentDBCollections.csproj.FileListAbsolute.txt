@@ -1,0 +1,11 @@
+C:\Projects\DocumentDBCollections\DocumentDBCollections\bin\Debug\DocumentDBCollections.exe.config
+C:\Projects\DocumentDBCollections\DocumentDBCollections\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Projects\DocumentDBCollections\DocumentDBCollections\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Projects\DocumentDBCollections\DocumentDBCollections\bin\Debug\DocumentDBCollections.exe
+C:\Projects\DocumentDBCollections\DocumentDBCollections\bin\Debug\DocumentDBCollections.pdb
+C:\Projects\DocumentDBCollections\DocumentDBCollections\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Projects\DocumentDBCollections\DocumentDBCollections\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\DocumentDBCollections\DocumentDBCollections\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Projects\DocumentDBCollections\DocumentDBCollections\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\DocumentDBCollections\DocumentDBCollections\obj\Debug\DocumentDBCollections.exe
+C:\Projects\DocumentDBCollections\DocumentDBCollections\obj\Debug\DocumentDBCollections.pdb
